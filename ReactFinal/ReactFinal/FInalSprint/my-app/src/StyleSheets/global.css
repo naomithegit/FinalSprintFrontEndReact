@@ -1,0 +1,13 @@
+/* Reset and global styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #eaf6ff; /* Lightest blue background */
+    color: #00274d; /* Dark navy blue for text */
+  }
+  
